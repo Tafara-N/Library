@@ -4,6 +4,24 @@
 - [Author](#author)
 - [From `.chm` to `.pdf`](#converting-from-chm-to-pdf)
 - [From `.epub` to `.pdf`](#converting-from-epub-to-pdf)
+- [Opening and Reading Files](#opening-and-reading-files)
+
+
+## Opening and Reading Files
+
+**`.chm` files**
+
+```bash
+sudo apt-get update
+sudo apt install xchm
+```
+
+**`.epub` files**
+
+```bash
+sudo snap install okular
+```
+___
 
 ## Conversion
 
@@ -26,6 +44,8 @@ ebook-convert file.chm file.pdf
 
 ### Converting from `.epub` to `.pdf`
 
+1. **Using Okular**
+
 > **Have `Okular` installed**
 
 ```bash
@@ -36,6 +56,15 @@ sudo snap install okular
 - Once opened, follow the below steps:
 
 ![Converting from `.epub` to `.pdf`](images/okular_conversion.png)
+
+
+2. **Using calibre**
+
+```bash
+sudo apt-get update
+sudo apt-get install calibre
+ebook-convert file.epub file.pdf
+```
 
 ## Author
 
