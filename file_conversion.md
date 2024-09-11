@@ -9,6 +9,12 @@
 
 ### Converting from `.chm` to `.pdf`
 
+1. **Using a free online tool [Zamzar](https://www.zamzar.com/convert/chm-to-pdf/)**
+
+- Upload the `file.chm` file.
+- File gets converted to `pdf`, or an extension of your choice.
+- Download the converted `file.pdf` file.
+- All done 
 
 ### Converting from `.epub` to `.pdf`
 
