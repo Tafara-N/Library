@@ -32,8 +32,8 @@ ebook-convert file.chm file.pdf
 sudo snap install okular
 ```
 
-- Select the file you want to open and open it with Okular
-- Once opened, follow the below options
+- Select the `file.epub` you want and open it with `Okular`
+- Once opened, follow the below steps:
 
 ![Converting from `.epub` to `.pdf`](images/okular_conversion.png)
 
