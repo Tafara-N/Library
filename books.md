@@ -16,7 +16,7 @@
  ┃ ┗ 📜bash Cookbook: Solutions and Examples For bash Users.pdf
  ┣ 📂BitTorrent
  ┃ ┗ 📜The Big Book of BitTorrent.pdf
- ┣ 📂C | C++
+ ┣ 📂C / C++
  ┃ ┣ 📂C
  ┃ ┃ ┣ 📂Pointers
  ┃ ┃ ┃ ┣ 📜Pointers in C  A Hands on Approach .pdf
@@ -45,7 +45,7 @@
  ┃ ┃ ┣ 📜The C++ Programming Language.pdf
  ┃ ┃ ┣ 📜flag_defects.png
  ┃ ┃ ┗ 📜flag_defects_2.png
- ┃ ┣ 📂GCC | G++
+ ┃ ┣ 📂GCC / G++
  ┃ ┃ ┣ 📜An Introduction to GCC.pdf
  ┃ ┃ ┗ 📜An Introduction to GCC: For the GNU Compilers GCC and G++.pdf
  ┃ ┣ 📂GDB Debugger
@@ -54,7 +54,7 @@
  ┃ ┃ ┣ 📜Managing Projects with GNU Make.pdf
  ┃ ┃ ┗ 📜The GNU Make Book.pdf
  ┣ 📂Data Structures and Algorithms
- ┃ ┣ 📂C|C++
+ ┃ ┣ 📂C / C++
  ┃ ┃ ┣ 📜Principles Of Data Structures Using C And C++.pdf
  ┃ ┃ ┗ 📜Problem Solving in Data Structures & Algorithms Using C.pdf
  ┃ ┣ 📂Java
