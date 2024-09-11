@@ -1,4 +1,4 @@
-# A collection of books
+# A collection of Software Engineering books
 
 ## Table of Content
 - [Author](#author)
