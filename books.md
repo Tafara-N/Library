@@ -106,6 +106,7 @@
  ┃ ┃ ┃ ┣ 📜PostgreSQL 9: Administration Cookbook.pdf
  ┃ ┃ ┃ ┣ 📜PostgreSQL 9: High Availability Cookbook.pdf
  ┃ ┃ ┃ ┣ 📜PostgreSQL 9: High Performance.pdf
+ ┃ ┃ ┃ ┣ 📜PostgreSQL Cookbook.pdf
  ┃ ┃ ┃ ┣ 📜PostgreSQL.pdf
  ┃ ┃ ┃ ┣ 📜PostgreSQL: Administration Cookbook.pdf
  ┃ ┃ ┃ ┣ 📜PostgreSQL: Administration German.pdf
