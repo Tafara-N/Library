@@ -14,9 +14,28 @@
 - Upload the `file.chm` file.
 - File gets converted to `pdf`, or an extension of your choice.
 - Download the converted `file.pdf` file.
-- All done 
+- All done
+
+2. **Using calibre**
+
+```bash
+sudo apt-get update
+sudo apt-get install calibre
+ebook-convert file.chm file.pdf
+```
 
 ### Converting from `.epub` to `.pdf`
+
+> **Have `Okular` installed**
+
+```bash
+sudo snap install okular
+```
+
+- Select the file you want to open and open it with Okular
+- Once opened, follow the below options
+
+![Converting from `.epub` to `.pdf`](images/okular_conversion.png)
 
 ## Author
 
