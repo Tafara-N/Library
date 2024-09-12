@@ -3,6 +3,7 @@
 ## Table of Content
 - [Author](#author)
 - [Directory Contents](#books)
+- [LICENSE](#license)
 ___
 
 ## Books
@@ -17,3 +18,7 @@ __
 ## Author
 
 **Tafara Nyamhunga  - [Github](https://github.com/tafara-n) / [Twitter](https://twitter.com/tafaranyamhunga)**
+
+## License
+
+[MIT](LICENSE) (c) **2024: Library.**
