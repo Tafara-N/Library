@@ -62,10 +62,10 @@ This repository contains a wide range of books covering various aspects of Softw
 | TOPIC                             | Description                                                                                                                             |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | **[Assembly](Books/ASM/)**        | Dive into low-level programming with Assembly language. Understand how to write efficient code that interacts directly with hardware.   |
-| ** | Learn the powerful Bash shell scripting language to automate tasks, manage systems, and enhance productivity in Unix-like environments. |
-| ** | Explore the BitTorrent protocol, its implementation, and how it revolutionizes peer-to-peer file sharing.   |
-| ** | Master the C programming language, known for its performance and low-level memory manipulation capabilities. |
-| ** | Delve into C++, an extension of C that includes object-oriented features, and learn how to write robust and efficient code. |
+| **[Bash](Books/Bash/)**           | Learn the powerful Bash shell scripting language to automate tasks, manage systems, and enhance productivity in Unix-like environments. |
+| **[BitTorrent](Books/BitTorrent/)**           | Explore the BitTorrent protocol, its implementation, and how it revolutionizes peer-to-peer file sharing.                   |
+| **[C](Books/C%20|%20C++%20/C/)**              | Master the C programming language, known for its performance and low-level memory manipulation capabilities.                |
+| **[Cpp](Books/C%20|%20C++%20/C++/)**          | Delve into C++, an extension of C that includes object-oriented features, and learn how to write robust and efficient code. |
 | ** | Understand Cascading Style Sheets (CSS) to style and layout web pages, making them visually appealing and responsive. |
 | ** | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
 | ** | Learn about different database systems, SQL, NoSQL, and database design principles.                         |
