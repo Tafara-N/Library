@@ -59,9 +59,9 @@ ___
 
 This repository contains a wide range of books covering various aspects of Software Engineering, including but not limited to:
 
-| TOPIC                        | Description                                                                                                 |
-|------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **[Assembly](Books/ASM/)** | Dive into low-level programming with Assembly language. Understand how to write efficient code that interacts directly with hardware. |
+| TOPIC                             | Description                                                                                                                             |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| **[Assembly](Books/ASM/)**        | Dive into low-level programming with Assembly language. Understand how to write efficient code that interacts directly with hardware.   |
 | ** | Learn the powerful Bash shell scripting language to automate tasks, manage systems, and enhance productivity in Unix-like environments. |
 | ** | Explore the BitTorrent protocol, its implementation, and how it revolutionizes peer-to-peer file sharing.   |
 | ** | Master the C programming language, known for its performance and low-level memory manipulation capabilities. |
@@ -79,11 +79,11 @@ This repository contains a wide range of books covering various aspects of Softw
 | ** | Learn about NGINX web server, its configuration, and optimization techniques.                               |
 | ** | Understand the fundamentals of operating systems, including processes, memory management, and file systems. |
 | ** | Delve into Python programming, libraries, and frameworks for various applications.                          |
-| **[Regular Expressions](Books/Regex/)**                 | Master regular expressions for pattern matching and text processing.                                        |
-| **[Ruby](Books/Ruby/)**                                 | Learn Ruby programming language and its applications in web development with Ruby on Rails.                 |
-| **[Software Design](Books/Software%20Design/)**         | Study software design principles, patterns, and architecture.                                               |
-| **[Vim](Books/Vim/)**                                   | Become proficient in Vim text editor, its commands, and customization.                                      |
-| **[Web Apps Development](Books/Web%20Apps%20Dev/)**     | Explore web application development, frameworks, and best practices.                                        |
+| **[Regular Expressions](Books/Regex/)**                 | Master regular expressions for pattern matching and text processing.                                              |
+| **[Ruby](Books/Ruby/)**                                 | Learn Ruby programming language and its applications in web development with Ruby on Rails.                       |
+| **[Software Design](Books/Software%20Design/)**         | Study software design principles, patterns, and architecture.                                                     |
+| **[Vim](Books/Vim/)**                                   | Become proficient in Vim text editor, its commands, and customization.                                            |
+| **[Web Apps Development](Books/Web%20Apps%20Dev/)**     | Explore web application development, frameworks, and best practices.                                              |
 
 > **Every directory contains a README with the files in it.**
 
