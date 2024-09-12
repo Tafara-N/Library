@@ -14,13 +14,14 @@
         ┣ 📜Beginning CSS Preprocessors With Sass, Compass, and Less.pdf
         ┣ 📜Beginning CSS: Cascading Style Sheets for Web Design.pdf
         ┣ 📜CSS In Depth.epub
+        ┣ 📜CSS In Depth.pdf
         ┣ 📜CSS Master.pdf
         ┣ 📜CSS Mastery Advanced Web Standards Solutions Third Edition.pdf
         ┣ 📜CSS: The Definitive Guide.epub
+        ┣ 📜CSS: The Definitive Guide.pdf
         ┣ 📜HTML 1.pdf
         ┣ 📜HTML CSS: 2.pdf
         ┣ 📜Pragmatic Guide To SASS.pdf
-        ┣ 📜README.md
         ┣ 📜Sass for Web Designers.pdf
         ┗ 📜Thinking In CSS.pdf
 ```
