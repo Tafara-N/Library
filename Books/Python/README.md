@@ -16,7 +16,7 @@
     ┣ 📜Cython: A Guide For Python Programmers.pdf
     ┣ 📜Fluent Python: Raw.pdf
     ┣ 📜Impractical Python Projects.pdf
-    ┣ 📜Lean Python: Learn Just Enough Python to Build Useful Tools.pdf
+    ┣ 📜Learn Python: Learn Just Enough Python to Build Useful Tools.pdf
     ┣ 📜Learning Python Network Programming.pdf
     ┣ 📜Learning Python:  Powerful Object-Oriented Programming.pdf
     ┣ 📜Learning Python: 5th Edition.pdf
