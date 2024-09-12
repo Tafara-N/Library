@@ -70,7 +70,7 @@ This repository contains a wide range of books covering various aspects of Softw
 | ** | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
 | ** | Learn about different database systems, SQL, NoSQL, and database design principles.                         |
 | **[]() | Master the Emacs text editor, its customization, and usage for efficient coding.                            |
-| **[Erlang](Books/Erlang/)** | Dive into Erlang programming language, known for its concurrency and fault-tolerance features.              |
+| **[Erlang](Books/Erlang/)**                             | Dive into Erlang programming language, known for its concurrency and fault-tolerance features.                    |
 | **[Git](Books/Git/)**                                   | Understand version control with Git, including branching, merging, and collaboration workflows.                   |
 | **[HTML](Books/HTML/)**                                 | Get to grips with the basics and advanced features of HTML for web development.                                   |
 | **[Java](Books/Java/)**                                 | Explore Java programming language, its ecosystem, and best practices.                                             |
