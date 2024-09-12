@@ -35,7 +35,7 @@ This project is a fork of [Library](https://github.com/Tafara-N/Library) by [@Ta
 - [Data Structures and Algorithms]()
 - [DataBases]()
 - [Emacs](Books/Emacs/README.md)
-- []()
+- [Erlang](Books/Erlang/README.md)
 - []()
 - [Software Design](Books/Software%20Design/README.md)
 - [Vim](Books/Vim/README.md)
