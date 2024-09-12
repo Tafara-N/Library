@@ -27,6 +27,7 @@
     ┣ 📜Sinatra Up and Running.pdf
     ┣ 📜The Ruby Programming Language.chm
     ┣ 📜The Ruby Way.chm
+    ┣ 📜The Ruby Way.pdf
     ┗ 📜Why's (Poignant) Guide to Ruby.pdf
 ```
 
