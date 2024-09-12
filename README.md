@@ -65,7 +65,7 @@ This repository contains a wide range of books covering various aspects of Softw
 | **[Bash](Books/Bash/)**           | Learn the powerful Bash shell scripting language to automate tasks, manage systems, and enhance productivity in Unix-like environments. |
 | **[BitTorrent](Books/BitTorrent/)**           | Explore the BitTorrent protocol, its implementation, and how it revolutionizes peer-to-peer file sharing.                   |
 | **[C](Books/C%20and%20Cpp/C/)**               | Master the C programming language, known for its performance and low-level memory manipulation capabilities.                |
-| **[Cpp](Books/C%20and%20Cpp/Cpp/)**          | Delve into C++, an extension of C that includes object-oriented features, and learn how to write robust and efficient code. |
+| **[Cpp](Books/C%20and%20Cpp/Cpp/)**           | Delve into C++, an extension of C that includes object-oriented features, and learn how to write robust and efficient code. |
 | **[CSS](Books/HTML/CSS/)**                    | Understand Cascading Style Sheets (CSS) to style and layout web pages, making them visually appealing and responsive.       |
 | **[Data Structures and Algorithms](Books/Data%20Structures%20and%20Algorithms/)** | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
 | **[Databases](Books/DataBases/)**                       | Learn about different database systems, SQL, NoSQL, and database design principles.                               |
