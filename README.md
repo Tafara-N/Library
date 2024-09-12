@@ -69,12 +69,12 @@ This repository contains a wide range of books covering various aspects of Softw
 | ** | Understand Cascading Style Sheets (CSS) to style and layout web pages, making them visually appealing and responsive. |
 | ** | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
 | ** | Learn about different database systems, SQL, NoSQL, and database design principles.                         |
-| ** | Master the Emacs text editor, its customization, and usage for efficient coding.                            |
-| ** | Dive into Erlang programming language, known for its concurrency and fault-tolerance features.              |
-| ** | Understand version control with Git, including branching, merging, and collaboration workflows.             |
-| ** | Get to grips with the basics and advanced features of HTML for web development.                             |
-| ** | Explore Java programming language, its ecosystem, and best practices.                                       |
-| ** | Gain knowledge about the Linux operating system, shell scripting, and system administration.                |
+| **[]() | Master the Emacs text editor, its customization, and usage for efficient coding.                            |
+| **[Erlang](Books/Erlang/)** | Dive into Erlang programming language, known for its concurrency and fault-tolerance features.              |
+| **[Git](Books/Git/)**                                   | Understand version control with Git, including branching, merging, and collaboration workflows.                   |
+| **[HTML](Books/HTML/)**                                 | Get to grips with the basics and advanced features of HTML for web development.                                   |
+| **[Java](Books/Java/)**                                 | Explore Java programming language, its ecosystem, and best practices.                                             |
+| **[Linux](Books/Linux/)**                               | Gain knowledge about the Linux operating system, shell scripting, and system administration.                      |
 | **[Network](Books/Network/)**                           | Study networking concepts, protocols, and network security.                                                       |
 | **[NGINX](Books/Nginx/)**                               | Learn about NGINX web server, its configuration, and optimization techniques.                                     |
 | **[Operating Systems](Books/Operating%20Systems/)**     | Understand the fundamentals of operating systems, including processes, memory management, and file systems.       |
