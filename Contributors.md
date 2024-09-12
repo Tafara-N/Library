@@ -1,12 +1,22 @@
 If you want to add some books, please follow these steps. Make sure you have [Git](https://git-scm.com/) installed on your local computer.
 
-- Fork the projet by clicking on the "Fork" button on the top right corner of this [page]()
-- Git clone your fork
-- Open the `Books` directory
-    - Choose a directory to add the book in
+- Fork the projet by clicking on the "Fork" button on the top right corner of this [page](https://github.com/Tafara-N/Library/)
+- Git clone your fork.
+- Open the `Books` directory.
+    - Choose a directory to add the book in.
+    - The book should be in a directory that fits its name.
+    - **Example:**
+        - `A Software Engineering Book.pdf`, add it to Books/"Software Design"
+    - **To add Non-Software Engineering books**:
+        - Create a directory for the genre of the book, eg "Fiction" and add the book there.
+    - Make sure the book is converteble to a pdf extension.
+    - The commit message has to be the title of the book.
+    - **No** special characters in the title of the book.
+    - **No pornographic** books will be accepted!!
+
 - Make sure the book doesn't already exist!
 - Add the book.
-- Commit and push your changes
+- Commit and push your changes.
 - Submit a pull request
 
 Thanks!
