@@ -1,4 +1,4 @@
-# A collection of Web Development books
+# A collection of Web Apps Development books
 
 ## Table of Content
 
