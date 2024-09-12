@@ -24,6 +24,7 @@ If you want to add some books, please follow these steps. Make sure you have [Gi
 
 - Add the book.
     - Edit the [list](books.md) accordingly.
+    - Add yourself to the [AUTHORS](AUTHORS), after "Line: 3"
 - Commit and push your changes.
 - Submit a pull request and wait for a review.
 
