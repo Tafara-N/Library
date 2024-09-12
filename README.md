@@ -1,5 +1,7 @@
 # A collection of Software Engineering books
 
+This repository is a curated collection of books on various topics in Software Engineering. It aims to provide a comprehensive resource for developers, students, and professionals looking to deepen their knowledge in different areas of Software Development and Engineering.
+
 ## Table of Content
 - [Author](#author)
 - [Directory Contents](#books)
@@ -52,6 +54,27 @@ This project is a fork of [Library](https://github.com/Tafara-N/Library) by [@Ta
 - [Vim](Books/Vim/README.md)
 - [Web Apps Development](Books/Web%20Apps%20Dev/README.md)
 ___
+
+### Description
+
+This repository contains a wide range of books covering various aspects of Software Engineering, including but not limited to:
+
+- **Databases:** Learn about different database systems, SQL, NoSQL, and database design principles.
+- **Emacs:** Master the Emacs text editor, its customization, and usage for efficient coding.
+- **Erlang:** Dive into Erlang programming language, known for its concurrency and fault-tolerance features.
+- **Git:** Understand version control with Git, including branching, merging, and collaboration workflows.
+- **HTML:** Get to grips with the basics and advanced features of HTML for web development.
+- **Java:** Explore Java programming language, its ecosystem, and best practices.
+- **Linux:** Gain knowledge about the Linux operating system, shell scripting, and system administration.
+- **Network:** Study networking concepts, protocols, and network security.
+- **NGINX:** Learn about NGINX web server, its configuration, and optimization techniques.
+- **Operating Systems:** Understand the fundamentals of operating systems, including processes, memory management, and file systems.
+- **Python:** Delve into Python programming, libraries, and frameworks for various applications.
+- **Regular Expressions:** Master regular expressions for pattern matching and text processing.
+- **Ruby:** Learn Ruby programming language and its applications in web development with Ruby on Rails.
+- **Software Design:** Study software design principles, patterns, and architecture.
+- **Vim:** Become proficient in Vim text editor, its commands, and customization.
+- **Web Apps Development:** Explore web application development, frameworks, and best practices.
 
 > **Every directory contains a README with the files in it.**
 
