@@ -48,7 +48,7 @@ This project is a fork of [Library](https://github.com/Tafara-N/Library) by [@Ta
 - []()
 - []()
 - []()
-- []()
+- [Regular Expressions](Books/Regex/README.md)
 - [Ruby](Books/Ruby/README.md)
 - [Software Design](Books/Software%20Design/README.md)
 - [Vim](Books/Vim/README.md)
