@@ -14,6 +14,18 @@ ___
 - [Pull Requests](https://github.com/Tafara-N/Library/pulls)
 - [LICENSE](LICENSE)
 
+## Support
+
+If you find this project helpful, please consider giving it a ⭐ star on GitHub. It helps others find the project and shows your support!
+
+- Fork the project by clicking on the "Fork" button on the top right corner of this [page](https://github.com/Tafara-N/Library). If you do, please mention me in your fork by adding a link back to the original repository or mentioning my GitHub username in your README!
+
+## Example
+
+```markdown
+This project is a fork of [Library](https://github.com/Tafara-N/Library) by [@Tafara-N](https://github.com/Tafara-N).
+```
+
 ## Index: Books
 
 - [Assembly]()
