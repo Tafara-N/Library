@@ -7,7 +7,7 @@
 ___
 
 ## Get involved
-- [Contributing Guide]()
+- [Contributing Guide](Contributors.md)
 - [Issues](https://github.com/Tafara-N/Library/issues)
 - [Pull Requests](https://github.com/Tafara-N/Library/pulls)
 - [LICENSE](LICENSE)
