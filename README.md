@@ -83,7 +83,7 @@ This repository contains a wide range of books covering various aspects of Softw
 | **Ruby**                     | Learn Ruby programming language and its applications in web development with Ruby on Rails.                 |
 | **Software Design**          | Study software design principles, patterns, and architecture.                                               |
 | **Vim**                      | Become proficient in Vim text editor, its commands, and customization.                                      |
-| **[Web Apps Development](Books/Web%20Apps%20Dev/README.md)**     | Explore web application development, frameworks, and best practices.                                        |
+| **[Web Apps Development](Books/Web%20Apps%20Dev/)**     | Explore web application development, frameworks, and best practices.                                        |
 
 > **Every directory contains a README with the files in it.**
 
