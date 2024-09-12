@@ -29,7 +29,16 @@ This project is a fork of [Library](https://github.com/Tafara-N/Library) by [@Ta
 ## Index: Books
 
 - [Assembly](Books/ASM/README.md)
-
+- [Bash](Books/Bash/README.md)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - [Web Apps Development](Books/Web%20Apps%20Dev/README.md)
 ___
 
