@@ -61,28 +61,28 @@ This repository contains a wide range of books covering various aspects of Softw
 
 | TOPIC                        | Description                                                                                                 |
 |------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Assembly**                 | Dive into low-level programming with Assembly language. Understand how to write efficient code that interacts directly with hardware. |
-| **Bash**                     | Learn the powerful Bash shell scripting language to automate tasks, manage systems, and enhance productivity in Unix-like environments. |
-| **BitTorrent**               | Explore the BitTorrent protocol, its implementation, and how it revolutionizes peer-to-peer file sharing.   |
-| **C**                        | Master the C programming language, known for its performance and low-level memory manipulation capabilities. |
-| **Cpp**                      | Delve into C++, an extension of C that includes object-oriented features, and learn how to write robust and efficient code. |
-| **CSS**                      | Understand Cascading Style Sheets (CSS) to style and layout web pages, making them visually appealing and responsive. |
-| **Data Structures and Algorithms** | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
-| **Databases**                | Learn about different database systems, SQL, NoSQL, and database design principles.                         |
-| **Emacs**                    | Master the Emacs text editor, its customization, and usage for efficient coding.                            |
-| **Erlang**                   | Dive into Erlang programming language, known for its concurrency and fault-tolerance features.              |
-| **Git**                      | Understand version control with Git, including branching, merging, and collaboration workflows.             |
-| **HTML**                     | Get to grips with the basics and advanced features of HTML for web development.                             |
-| **Java**                     | Explore Java programming language, its ecosystem, and best practices.                                       |
-| **Linux**                    | Gain knowledge about the Linux operating system, shell scripting, and system administration.                |
-| **Network**                  | Study networking concepts, protocols, and network security.                                                 |
-| **NGINX**                    | Learn about NGINX web server, its configuration, and optimization techniques.                               |
-| **Operating Systems**        | Understand the fundamentals of operating systems, including processes, memory management, and file systems. |
-| **Python**                   | Delve into Python programming, libraries, and frameworks for various applications.                          |
-| **Regular Expressions**      | Master regular expressions for pattern matching and text processing.                                        |
-| **Ruby**                     | Learn Ruby programming language and its applications in web development with Ruby on Rails.                 |
-| **Software Design**          | Study software design principles, patterns, and architecture.                                               |
-| **[Vim](Books/Vim/)**                      | Become proficient in Vim text editor, its commands, and customization.                                      |
+| **[Assembly](Books/ASM/)** | Dive into low-level programming with Assembly language. Understand how to write efficient code that interacts directly with hardware. |
+| ** | Learn the powerful Bash shell scripting language to automate tasks, manage systems, and enhance productivity in Unix-like environments. |
+| ** | Explore the BitTorrent protocol, its implementation, and how it revolutionizes peer-to-peer file sharing.   |
+| ** | Master the C programming language, known for its performance and low-level memory manipulation capabilities. |
+| ** | Delve into C++, an extension of C that includes object-oriented features, and learn how to write robust and efficient code. |
+| ** | Understand Cascading Style Sheets (CSS) to style and layout web pages, making them visually appealing and responsive. |
+| ** | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
+| ** | Learn about different database systems, SQL, NoSQL, and database design principles.                         |
+| ** | Master the Emacs text editor, its customization, and usage for efficient coding.                            |
+| ** | Dive into Erlang programming language, known for its concurrency and fault-tolerance features.              |
+| ** | Understand version control with Git, including branching, merging, and collaboration workflows.             |
+| ** | Get to grips with the basics and advanced features of HTML for web development.                             |
+| ** | Explore Java programming language, its ecosystem, and best practices.                                       |
+| ** | Gain knowledge about the Linux operating system, shell scripting, and system administration.                |
+| ** | Study networking concepts, protocols, and network security.                                                 |
+| ** | Learn about NGINX web server, its configuration, and optimization techniques.                               |
+| ** | Understand the fundamentals of operating systems, including processes, memory management, and file systems. |
+| ** | Delve into Python programming, libraries, and frameworks for various applications.                          |
+| **[Regular Expressions](Books/Regex/)**                 | Master regular expressions for pattern matching and text processing.                                        |
+| **[Ruby](Books/Ruby/)**                                 | Learn Ruby programming language and its applications in web development with Ruby on Rails.                 |
+| **[Software Design](Books/Software%20Design/)**         | Study software design principles, patterns, and architecture.                                               |
+| **[Vim](Books/Vim/)**                                   | Become proficient in Vim text editor, its commands, and customization.                                      |
 | **[Web Apps Development](Books/Web%20Apps%20Dev/)**     | Explore web application development, frameworks, and best practices.                                        |
 
 > **Every directory contains a README with the files in it.**
