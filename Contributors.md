@@ -20,8 +20,11 @@ If you want to add some books, please follow these steps. Make sure you have [Gi
     - **No pornographic** books will be accepted!!
 
 - Make sure the book doesn't already exist!
+    - Look into the [list](books.md).
+
 - Add the book.
+    - Edit the [list](books.md) accordingly.
 - Commit and push your changes.
-- Submit a pull request
+- Submit a pull request and wait for a review.
 
 Thanks!
