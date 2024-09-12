@@ -7,7 +7,7 @@
 
 ## Books
 
-```
+```bash
 📦Books
  ┣ 📂Vim
  ┃ ┣ 📜Hacking Vim.pdf
