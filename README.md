@@ -49,7 +49,7 @@ This project is a fork of [Library](https://github.com/Tafara-N/Library) by [@Ta
 - []()
 - []()
 - []()
-- []()
+- [Ruby](Books/Ruby/README.md)
 - [Software Design](Books/Software%20Design/README.md)
 - [Vim](Books/Vim/README.md)
 - [Web Apps Development](Books/Web%20Apps%20Dev/README.md)
