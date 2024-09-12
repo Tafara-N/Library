@@ -67,8 +67,8 @@ This repository contains a wide range of books covering various aspects of Softw
 | **[C](Books/C%20|%20C++%20/C/)**              | Master the C programming language, known for its performance and low-level memory manipulation capabilities.                |
 | **[Cpp](Books/C%20|%20C++%20/C++/)**          | Delve into C++, an extension of C that includes object-oriented features, and learn how to write robust and efficient code. |
 | **[CSS](Books/HTML/CSS/)**                    | Understand Cascading Style Sheets (CSS) to style and layout web pages, making them visually appealing and responsive.       |
-| **[Data Structures and Algorithms](Books/Data%20Structures%20and%20Algorithms/) | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
-| **[Databases](Books/DataBases/)                         | Learn about different database systems, SQL, NoSQL, and database design principles.                               |
+| **[Data Structures and Algorithms](Books/Data%20Structures%20and%20Algorithms/)** | Study fundamental data structures and algorithms, essential for solving complex computational problems efficiently. |
+| **[Databases](Books/DataBases/)**                       | Learn about different database systems, SQL, NoSQL, and database design principles.                               |
 | **[Emacs](Books/Emacs/)**                               | Master the Emacs text editor, its customization, and usage for efficient coding.                                  |
 | **[Erlang](Books/Erlang/)**                             | Dive into Erlang programming language, known for its concurrency and fault-tolerance features.                    |
 | **[Git](Books/Git/)**                                   | Understand version control with Git, including branching, merging, and collaboration workflows.                   |
