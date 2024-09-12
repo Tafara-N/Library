@@ -14,7 +14,6 @@
     ┣ 📜Designing Data-Intensive Applications.pdf
     ┣ 📜HTML5 and CSS3 - Level Up with Today's Web Technologies 2nd Edition.pdf
     ┣ 📜HTML5 and CSS: Introductory.pdf
-    ┣ 📜README.md
     ┣ 📜The Little Book of HTML-CSS Frameworks.pdf
     ┗ 📜clean_HTML.jpg
 ```
