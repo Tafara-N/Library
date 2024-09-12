@@ -76,7 +76,7 @@ This repository contains a wide range of books covering various aspects of Softw
 | ** | Explore Java programming language, its ecosystem, and best practices.                                       |
 | ** | Gain knowledge about the Linux operating system, shell scripting, and system administration.                |
 | ** | Study networking concepts, protocols, and network security.                                                 |
-| ** | Learn about NGINX web server, its configuration, and optimization techniques.                               |
+| **[NGINX](Books/Nginx/)**                               | Learn about NGINX web server, its configuration, and optimization techniques.                                     |
 | **[Operating Systems](Books/Operating%20Systems/)**     | Understand the fundamentals of operating systems, including processes, memory management, and file systems.       |
 | **[Python](Books/Python/)**                             | Delve into Python programming, libraries, and frameworks for various applications.                                |
 | **[Regular Expressions](Books/Regex/)**                 | Master regular expressions for pattern matching and text processing.                                              |
