@@ -6,7 +6,7 @@ If you want to add some books, please follow these steps. Make sure you have [Gi
     - Choose a directory to add the book in.
     - The book should be in a directory that fits its name.
     - **Example:**
-        - `A Software Engineering Book.pdf`, add it to Books/"Software Design"
+        - `A Software Engineering Book.pdf`, add it to `Books/"Software Design"`
     - **To add Non-Software Engineering books**:
         - Create a directory for the genre of the book, eg "Fiction" and add the book there.
         - A README.md description, check [this](Books/Vim/README.md) out for a simple one.
