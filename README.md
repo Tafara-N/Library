@@ -75,7 +75,7 @@ This repository contains a wide range of books covering various aspects of Softw
 | ** | Get to grips with the basics and advanced features of HTML for web development.                             |
 | ** | Explore Java programming language, its ecosystem, and best practices.                                       |
 | ** | Gain knowledge about the Linux operating system, shell scripting, and system administration.                |
-| ** | Study networking concepts, protocols, and network security.                                                 |
+| **[Network](Books/Network/)**                           | Study networking concepts, protocols, and network security.                                                       |
 | **[NGINX](Books/Nginx/)**                               | Learn about NGINX web server, its configuration, and optimization techniques.                                     |
 | **[Operating Systems](Books/Operating%20Systems/)**     | Understand the fundamentals of operating systems, including processes, memory management, and file systems.       |
 | **[Python](Books/Python/)**                             | Delve into Python programming, libraries, and frameworks for various applications.                                |
