@@ -55,7 +55,7 @@ sudo snap install okular
 - Select the `file.epub` you want and open it with `Okular`
 - Once opened, follow the below steps:
 
-![Converting from `.epub` to `.pdf`](images/okular_conversion.png)
+![Converting from `.epub` to `.pdf`](../images/okular_conversion.png)
 
 
 2. **Using calibre**
