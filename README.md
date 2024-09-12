@@ -19,8 +19,7 @@ ___
 - [Assembly]()
 
 - [Web Apps Development]()
-
-__
+___
 
 > **Every directory contains a README with the files in it.**
 
