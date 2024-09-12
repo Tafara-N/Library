@@ -78,7 +78,7 @@ This repository contains a wide range of books covering various aspects of Softw
 | ** | Study networking concepts, protocols, and network security.                                                 |
 | ** | Learn about NGINX web server, its configuration, and optimization techniques.                               |
 | ** | Understand the fundamentals of operating systems, including processes, memory management, and file systems. |
-| ** | Delve into Python programming, libraries, and frameworks for various applications.                          |
+| **[Python](Books/Python/)**                    | Delve into Python programming, libraries, and frameworks for various applications.                                         |
 | **[Regular Expressions](Books/Regex/)**                 | Master regular expressions for pattern matching and text processing.                                              |
 | **[Ruby](Books/Ruby/)**                                 | Learn Ruby programming language and its applications in web development with Ruby on Rails.                       |
 | **[Software Design](Books/Software%20Design/)**         | Study software design principles, patterns, and architecture.                                                     |
