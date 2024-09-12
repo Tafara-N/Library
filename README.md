@@ -3,10 +3,12 @@
 ## Table of Content
 - [Author](#author)
 - [Directory Contents](#books)
+- [Converting to PDF](utils/file_conversion.md)
 - [LICENSE](#license)
 ___
 
 ## Get involved
+
 - [Contributing Guide](Contributors.md)
 - [Issues](https://github.com/Tafara-N/Library/issues)
 - [Pull Requests](https://github.com/Tafara-N/Library/pulls)
@@ -17,9 +19,10 @@ ___
 - [Assembly]()
 
 - [Web Apps Development]()
+
 __
 
-> **Tipe: Every directory contains a README with the files in it.**
+> **Every directory contains a README with the files in it.**
 
 ## Author
 
