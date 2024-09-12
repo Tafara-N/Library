@@ -8,7 +8,7 @@ If you want to add some books, please follow these steps. Make sure you have [Gi
     - **Example:**
         - `A Software Engineering Book.pdf`, add it to `Books/"Software Design"`
     - **To add Non-Software Engineering books**:
-        - Create a directory for the genre of the book, eg `Books/Fiction` and add the book there.
+        - Create a directory for the genre of the book, eg `Books/Fiction` and add the `A Fiction Book.pdf` book there.
         - A `README.md` description, check [this](Books/Vim/README.md) out for a simple one.
     - Make sure the book is converteble to a pdf extension.
     - The commit message has to be the title of the book.
