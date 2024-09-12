@@ -8,8 +8,8 @@ ___
 
 ## Get involved
 - [Contributing Guide]()
-- [Issues]()
-- [Pull Requests]()
+- [Issues](https://github.com/Tafara-N/Library/issues)
+- [Pull Requests](https://github.com/Tafara-N/Library/pulls)
 - [LICENSE](LICENSE)
 
 ## Index: Books
