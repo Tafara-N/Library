@@ -6,7 +6,13 @@
 - [LICENSE](#license)
 ___
 
-## Books
+## Get involved
+- [Contributing Guide]()
+- [Issues]()
+- [Pull Requests]()
+- [LICENSE](LICENSE)
+
+## Index: Books
 
 - [Assembly]()
 
