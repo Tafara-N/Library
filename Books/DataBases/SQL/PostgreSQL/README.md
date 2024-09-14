@@ -21,8 +21,6 @@
             ┣ 📜PostgreSQL Cookbook.pdf
             ┣ 📜PostgreSQL.pdf
             ┣ 📜PostgreSQL: Administration Cookbook.pdf
-            ┣ 📜PostgreSQL: Administration German.pdf
-            ┣ 📜PostgreSQL: Cookbook.epub
             ┣ 📜PostgreSQL: Cookbook.pdf
             ┣ 📜PostgreSQL: Developers Guide.pdf
             ┣ 📜PostgreSQL: Introduction and Concepts.pdf
