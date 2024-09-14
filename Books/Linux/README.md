@@ -20,7 +20,6 @@
     ┣ 📜Linux Smart Homes For Dummies.pdf
     ┣ 📜Linux for Beginners.epub
     ┣ 📜Pro Linux System Administration.pdf
-    ┣ 📜README.md
     ┣ 📜Running Linux.pdf
     ┣ 📜The Book of XEN.pdf
     ┣ 📜The Linux Command Line.pdf
