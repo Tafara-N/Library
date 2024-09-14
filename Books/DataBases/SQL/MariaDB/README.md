@@ -13,7 +13,7 @@
     ┗ 📂SQL
         ┗ 📂MariaDB
             ┣ 📜Getting Started with MariaDB.pdf
-            ┣ 📜MariaDB: Crash Course.pdf
+            ┗ 📜MariaDB: Crash Course.pdf
 ```
 
 ## Author
