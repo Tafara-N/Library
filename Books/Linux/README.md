@@ -10,11 +10,23 @@
 
 ```bash
 📦Books
- ┗ 📂Vim
-    ┣ 📜Hacking Vim.pdf
-    ┣ 📜Learning The Vi And Vim Editors.pdf
-    ┣ 📜Vi Improved Book.pdf
-    ┗ 📜Vim Like A Pro.pdf
+ ┗ 📂Linux
+    ┣ 📜A Practical Guide to Linux Commands.pdf
+    ┣ 📜CompTIA Linux+ Powered by Linux Professional Institute Study Guide.pdf
+    ┣ 📜CoreOS in Action: Running Applications on Container Linux.pdf
+    ┣ 📜How Linux Works.pdf
+    ┣ 📜Linux Bible.pdf
+    ┣ 📜Linux Command Line and Shell Scripting Bible.pdf
+    ┣ 📜Linux Smart Homes For Dummies.pdf
+    ┣ 📜Linux for Beginners.epub
+    ┣ 📜Pro Linux System Administration.pdf
+    ┣ 📜README.md
+    ┣ 📜Running Linux.pdf
+    ┣ 📜The Book of XEN.pdf
+    ┣ 📜The Linux Command Line.pdf
+    ┣ 📜The Linux Programming Interface: A Linux and UNIX System Programming.pdf
+    ┣ 📜Understanding The Linux Kernel.pdf
+    ┗ 📜Using Samba.pdf
 ```
 
 ## Tips
