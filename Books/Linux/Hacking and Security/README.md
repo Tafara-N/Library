@@ -14,7 +14,6 @@
         ┣ 📜Linux Security Cookbook.chm
         ┣ 📜Linux Server Hacks.pdf
         ┣ 📜Linux Server Security: Hack and Defend.pdf
-        ┣ 📜README.md
         ┗ 📜Securing, Optimizing Linux: The Ultimate Solution.pdf
 ```
 
