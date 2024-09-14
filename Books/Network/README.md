@@ -23,13 +23,12 @@
     ┣ 📜Network Security with OpenSSL.pdf
     ┣ 📜Network Troubleshooting Tools.pdf
     ┣ 📜Networking All-in-One For Dummies.pdf
-    ┣ 📜README.md
     ┣ 📜RELAX NG.chm
     ┣ 📜Squid: The Definitive Guide.pdf
     ┣ 📜TCP IP Network Administration.chm
     ┣ 📜The Network Administration Guide.chm
     ┣ 📜Using Samba.chm
-    ┗ 📜Working  with  TCP  Sockets.pdf
+    ┗ 📜Working with TCP Sockets.pdf
 ```
 
 ### Tips
