@@ -12,7 +12,12 @@
 📦Books
  ┗ 📂DataBases
     ┗ 📂SQL
-
+        ┣ 📜Effective SQL: 61 Specific Ways to Write Better SQL.pdf
+        ┣ 📜Head First SQL Your Brain on SQL: A Learner's Guide.pdf
+        ┣ 📜SQL Antipatterns.pdf
+        ┣ 📜SQL Programming.pdf
+        ┣ 📜SQL for Smarties.pdf
+        ┗ 📜Trees and Hierarchies in SQL.pdf
 ```
 
 ## Bookmarks:
