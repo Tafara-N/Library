@@ -16,7 +16,7 @@
         ┣ 📜Effective Modern C++.pdf
         ┣ 📜Modern C++ Design.pdf
         ┣ 📜More Effective C++.pdf
-        ┣ 📜The C++ Programming Language Special Edition.PDF
+        ┣ 📜The C++ Programming Language Special Edition.pdf
         ┣ 📜The C++ Programming Language.pdf
         ┣ 📜flag_defects.png
         ┗ 📜flag_defects_2.png
