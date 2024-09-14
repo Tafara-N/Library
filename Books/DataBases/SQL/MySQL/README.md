@@ -20,7 +20,6 @@
             ┣ 📜MySQL Connector|Python Revealed.pdf
             ┣ 📜MySQL Cookbook, 3rd Edition.pdf
             ┣ 📜MySQL High Availability 2nd Edition.pdf
-            ┣ 📜MySQL Pocket Reference.chm
             ┣ 📜MySQL Pocket Reference.pdf
             ┣ 📜MySQL Stored Procedure Programming.pdf
             ┣ 📜MySQL and JSON.pdf
