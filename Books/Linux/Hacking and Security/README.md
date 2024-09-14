@@ -11,7 +11,11 @@
 📦Books
  ┗ 📂Linux
     ┗ 📂Hacking and Security
-        ┗ 📜The Secure Shell: The Definitive Guide.pdf
+        ┣ 📜Linux Security Cookbook.chm
+        ┣ 📜Linux Server Hacks.pdf
+        ┣ 📜Linux Server Security: Hack and Defend.pdf
+        ┣ 📜README.md
+        ┗ 📜Securing, Optimizing Linux: The Ultimate Solution.pdf
 ```
 
 ## Author
