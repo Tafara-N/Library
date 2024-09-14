@@ -12,10 +12,12 @@
 📦Books
  ┗ 📂Linux
     ┗ 📂Grep, Sed and Awk
-        ┣ 📜Linux Security Cookbook.chm
-        ┣ 📜Linux Server Hacks.pdf
-        ┣ 📜Linux Server Security: Hack and Defend.pdf
-        ┗ 📜Securing, Optimizing Linux: The Ultimate Solution.pdf
+        ┣ 📜Effective AWK Programming.pdf
+        ┣ 📜Grep Pocket Reference.pdf
+        ┣ 📜Sed and Awk.pdf
+        ┣ 📜sed & awk Pocket Reference.chm
+        ┣ 📜sed & awk.pdf
+        ┗ 📜sed & awk: Dale Dougherty & Arnold Robbins.epub
 ```
 
 ## Tips
