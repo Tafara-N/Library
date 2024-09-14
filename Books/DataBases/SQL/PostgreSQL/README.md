@@ -1,4 +1,4 @@
-# A collection of SQL: MariaDB books
+# A collection of SQL: PostgreSQL books
 
 ## Table of Content
 
