@@ -12,8 +12,8 @@
  ┗ 📂DataBases
     ┗ 📂SQL
         ┗ 📂SQLite
-            ┣ 📜Getting Started with MariaDB.pdf
-            ┗ 📜MariaDB: Crash Course.pdf
+            ┣ 📜SQLite.pdf
+            ┗ 📜Using SQLite.pdf
 ```
 
 ## Author
