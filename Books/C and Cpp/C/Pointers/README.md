@@ -12,7 +12,7 @@
  ┗ 📂C and Cpp
     ┗ 📂C
         ┗ 📂Pointers
-            ┣ 📜Pointers in C  A Hands on Approach .pdf
+            ┣ 📜Pointers in C A Hands on Approach.pdf
             ┣ 📜Pointers on C.pdf
             ┗ 📜Understanding and Using C Pointers.pdf
 ```
