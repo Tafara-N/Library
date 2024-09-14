@@ -22,8 +22,15 @@
 
 ## Tips
 
-* Variables:
-    - http://www.linuxnix.com/awk-scripting-learn-awk-built-in-variables-with-examples/
+**Variables:**
+
+- http://www.linuxnix.com/awk-scripting-learn-awk-built-in-variables-with-examples/
+
+**Examples:**
+
+ ```sh
+curl Some.XML.file | grep -Pzo "(?s)<high_url>.+?<wstrm>\K(.+?)(?=</ws)"
+ ```
 
 ## Author
 
