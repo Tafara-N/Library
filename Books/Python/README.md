@@ -22,6 +22,9 @@
     ┣ 📜Impractical Python Projects.pdf
     ┣ 📜Introducing Python.pdf
     ┣ 📜Learn Python: Learn Just Enough Python to Build Useful Tools.pdf
+    ┣ 📜Learning Cython Programming using Python.pdf
+    ┣ 📜Learning Python Design Patterns.pdf
+    ┣ 📜Learning Python Network Programming.pdf
     ┣ 📜Learning Python Network Programming.pdf
     ┣ 📜Learning Python: Powerful Object-Oriented Programming.pdf
     ┣ 📜Learning Python: 5th Edition.pdf
