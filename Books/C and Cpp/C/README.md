@@ -12,6 +12,7 @@
  ┗ 📂C and Cpp
     ┗ 📂C
         ┣ 📜21st Century C: 2nd Edition.pdf
+        ┣ 📜Beginning C From Novice to Professional.pdf
         ┣ 📜C Programming: A Modern Approach.pdf
         ┣ 📜C: How to Program.pdf
         ┣ 📜Expert C Programming: Deep C Secrets.pdf
