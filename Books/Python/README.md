@@ -39,6 +39,7 @@
     ┣ 📜Python Crash Course.pdf
     ┣ 📜Python Distilled.pdf
     ┣ 📜Python Hacking Essentials.pdf
+    ┣ 📜Python In Practice.pdf
     ┣ 📜Python Playground.pdf
     ┣ 📜Python Recipes Handbook: A Problem-Solution Approach.pdf
     ┣ 📜Python Tricks: A Buffet of Awesome Python Features.pdf
