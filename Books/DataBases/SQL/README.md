@@ -12,6 +12,7 @@
 📦Books
  ┗ 📂DataBases
     ┗ 📂SQL
+        ┣ 📜08-Query Optimization: II.pdf
         ┣ 📜Effective SQL: 61 Specific Ways to Write Better SQL.pdf
         ┣ 📜Head First SQL Your Brain on SQL: A Learner's Guide.pdf
         ┣ 📜SQL Antipatterns.pdf
