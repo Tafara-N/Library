@@ -11,6 +11,7 @@
 📦Books
  ┗ 📂Python
     ┣ 📜Advanced Python Programming.pdf
+    ┣ 📜Architecture Patterns With Python.pdf
     ┣ 📜Automate The Boring Stuff With Python.pdf
     ┣ 📜Beginning Programming with Python For Dummies.pdf
     ┣ 📜Coding Projects in Python.pdf
